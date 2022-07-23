@@ -1,4 +1,4 @@
-![ELkKlJ57_400x400](https://user-images.githubusercontent.com/53453555/180586484-09f12880-de7b-4406-a491-eb4d79d3bb58.jpg)
+![ELkKlJ57_100x100](https://user-images.githubusercontent.com/53453555/180586518-23307402-a5fb-4568-b3f8-1e4bf8cebb22.jpg)
 
 # Storipress Issue Tracker
 This is where we keep track of all bugs and feature requests for [Storipress](https://storipress.com/).
