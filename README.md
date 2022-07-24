@@ -1,7 +1,7 @@
 ![ELkKlJ57_100x100](https://user-images.githubusercontent.com/53453555/180586518-23307402-a5fb-4568-b3f8-1e4bf8cebb22.jpg)
 
 # Storipress Issue Tracker
-This is where we keep track of all bugs and feature requests for [Storipress](https://storipress.com/).
+This is where we keep track of bugs and feature requests for technical customers of [Storipress](https://storipress.com/).
 
 Please note the issue tracker is not for technical support questions.
 
